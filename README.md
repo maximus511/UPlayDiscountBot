@@ -1,4 +1,4 @@
-# CaptureTextFromVideo
+# Uplay Discount Bot
 Bot program to capture the text from a video playing on the screen
 
 - This can be easily modified to capture directly from a livestream but due to network latency, we could miss a large chunk of video frames between captures.
